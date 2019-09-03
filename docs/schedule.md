@@ -39,7 +39,7 @@
 
 9/17 – Text parsing / regular expressions
 
-* **HW 1 Due: Scrape the lyrics of one candidate’s campaign playlist from Genius.com **
+* **HW 1 Due: Scrape the lyrics of one candidate’s campaign playlist from Genius.com**
 
 * In class: Text parsing and regex with your song lyrics
 
@@ -64,7 +64,7 @@
 
 10/1 – Intro of final project
 
-* **HW 2 Due: Contributing back to the Colored Conventions Project **
+* **HW 2 Due: Contributing back to the Colored Conventions Project**
 
 10/3 – Word counts, n-grams
 
@@ -87,7 +87,7 @@
 
 10/17 – Final Project Brainstorming Session
 
-* **HW 3 Due: Analyzing the Colored Conventions Project Corpus **
+* **HW 3 Due: Analyzing the Colored Conventions Project Corpus**
 
 10/22 – Another Look at Data
 
@@ -103,7 +103,7 @@
 
 * Read: Patrick Juola, “[How a Computer Program Helped Show J.K. Rowling Wrote A Cuckoo’s Calling](https://www.scientificamerican.com/article/how-a-computer-program-helped-show-jk-rowling-write-a-cuckoos-calling/)” (and [more technical version](https://languagelog.ldc.upenn.edu/nll/?p=5315) if you're curious)
 
-* **FPP 1 Due: Datasheet OR Data Biography **
+* **FPP 1 Due: Datasheet OR Data Biography**
 
 10/31 – Classification
 
@@ -117,7 +117,7 @@
 
 11/7 – NO CLASS, Professor at conference
 
-* **FPP 2 Due: Project Proposal **
+* **FPP 2 Due: Project Proposal**
 
 ### Unit 4: Arguing with Textual Data
 
@@ -137,7 +137,7 @@
 * Adam Kilgarriff, “[Language is Never, Ever, Ever, Random](https://kilgarriff.co.uk/Publications/2005-K-lineer.pdf)”
 * David Lazer et al., “[The Parable of Google Flu: Traps in Big Data Analysis](https://gking.harvard.edu/files/gking/files/0314policyforumff.pdf)”
 
-** FPP 3 Due: Annotated bibliography **
+* **FPP 3 Due: Annotated bibliography**
 
 11/21 – Validation by whom, for whom?
 
