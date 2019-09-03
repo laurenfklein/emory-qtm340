@@ -4,14 +4,14 @@
 
 8/29 – What does it mean to be practical?
 
-* In class: Syllabus overview, intro/transcription exercise
+* In class: Syllabus overview, intro/transcription exercise ([slides](slides/class-1.pdf))
 
 9/3 – What can you do with text?
 
 * Read: Li-Young Lee, “[Persimmons](https://www.poetryfoundation.org/poems/43011/persimmons)”
 * Read: Michael Whitmore, “[Text: A Massively Addressable Object](https://dhdebates.gc.cuny.edu/read/untitled-88c11800-9446-469b-a3be-3fdb36bfbd1e/section/402e7e9a-359b-4b11-8386-a1b48e40425a)”
 
-* In class: Close reading and [Voyant](https://voyant-tools.org/) exercise
+* In class: Close reading and [Voyant](https://voyant-tools.org/) exercise ([slides](slides/class-2.pdf))
 
 ### Unit 1: Turning Text into Data
 
