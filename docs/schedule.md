@@ -22,7 +22,7 @@
 
 * **HW 0 Due: Install [Anaconda](https://www.anaconda.com/distribution/#download-section) <-- You want the Python 3.7 version**
 
-* In class: Intro to Jupyter and discussion of the platforms and people that make data science with text possible ([slides](../slides/class-3.pdf) | [notebook](../notebooks/class3-jupyter-intro.ipynb)
+* In class: Intro to Jupyter and discussion of the platforms and people that make data science with text possible ([slides](../slides/class-3.pdf) | [notebook](../notebooks/class3-jupyter-intro.ipynb))
 
 9/10 – Web Scraping
 
