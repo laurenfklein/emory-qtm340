@@ -11,7 +11,7 @@
 * Read: Li-Young Lee, “[Persimmons](https://www.poetryfoundation.org/poems/43011/persimmons)”
 * Read: Michael Whitmore, “[Text: A Massively Addressable Object](https://dhdebates.gc.cuny.edu/read/untitled-88c11800-9446-469b-a3be-3fdb36bfbd1e/section/402e7e9a-359b-4b11-8386-a1b48e40425a)”
 
-* In class: Close reading and [Voyant](https://voyant-tools.org/) exercise ([slides](slides/class-2.pdf))
+* In class: Close reading and [Voyant](https://voyant-tools.org/) exercise ([slides](../slides/class-2.pdf))
 
 ### Unit 1: Turning Text into Data
 
@@ -22,7 +22,7 @@
 
 * **HW 0 Due: Install [Anaconda](https://www.anaconda.com/distribution/#download-section) <-- You want the Python 3.7 version**
 
-* In class: Intro to Jupyter and discussion of the platforms and people that make data science with text possible.
+* In class: Intro to Jupyter and discussion of the platforms and people that make data science with text possible ([slides](../slides/class-3.pdf) | [notebook](../notebooks/class3-jupyter-intro.ipynb)
 
 9/10 – Web Scraping
 
