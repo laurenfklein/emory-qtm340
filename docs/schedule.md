@@ -52,19 +52,19 @@
 
 ### Unit 2: Operationalizing Text as Data
 
-9/24 – Intro to Colored Conventions Project Corpus
-
-* Read: P. Gabrielle Foreman, Sarah Patterson, and Jim Casey, “[Introduction to the Colored Conventions Movement](http://coloredconventions.org/introduction-to-movement)” and “[CCP Principles](http://coloredconventions.org/ccp-principles)”
-* Watch: “[The Colored Conventions Project in Three Videos](http://coloredconventions.org/project-videos)” (watch the three videos)
-
-9/26 – Topic modeling
+9/24 – Topic modeling (moved from 9/26)
 
 * Read: Cameron Blevins, “[Topic Modeling Martha Ballard’s Diary](http://www.cameronblevins.org/posts/topic-modeling-martha-ballards-diary/)”
 * Read: Lisa Rhody, “[Topic Modeling and Figurative Language](http://journalofdigitalhumanities.org/2-1/topic-modeling-and-figurative-language-by-lisa-m-rhody/)”
 
+9/26 – Intro to Colored Conventions Project Corpus *Skype with Colored Conventions Project Team* (moved from 9/24)
+
+* Read: P. Gabrielle Foreman, Sarah Patterson, and Jim Casey, “[Introduction to the Colored Conventions Movement](http://coloredconventions.org/introduction-to-movement)” and “[CCP Principles](http://coloredconventions.org/ccp-principles)”
+* Watch: “[The Colored Conventions Project in Three Videos](http://coloredconventions.org/project-videos)” (watch the three videos)
+
 10/1 – Intro of final project
 
-* **HW 2 Due: Contributing back to the Colored Conventions Project**
+* **HW 2 Due: Sentiment analysis OR topic model of class song lyrics corpus **
 
 10/3 – Word counts, n-grams
 
@@ -87,7 +87,7 @@
 
 10/17 – Final Project Brainstorming Session
 
-* **HW 3 Due: Analyzing the Colored Conventions Project Corpus**
+* **HW 3 Due: Analysis of Colored Conventions Project Corpus**
 
 10/22 – Another Look at Data
 
