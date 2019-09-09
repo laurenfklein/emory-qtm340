@@ -64,7 +64,7 @@
 
 10/1 – Intro of final project
 
-* **HW 2 Due: Sentiment analysis OR topic model of class song lyrics corpus **
+* **HW 2 Due: Sentiment analysis OR topic model of class song lyrics corpus**
 
 10/3 – Word counts, n-grams
 
