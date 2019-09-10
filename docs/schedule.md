@@ -39,7 +39,7 @@
 
 9/17 – Text parsing / regular expressions
 
-* **HW 1 Due: Scrape the lyrics of one candidate’s campaign playlist from Genius.com**
+* **HW 1 Due: Scrape the lyrics for all of the songs in the candidate playlists from Genius.com**
 
 * In class: Text parsing and regex with your song lyrics
 
