@@ -29,7 +29,7 @@
 * Read: Astead Herndon et al.,, “[What Do Rally Playlists Say About the Candidates?](https://www.nytimes.com/interactive/2019/08/19/us/politics/presidential-campaign-songs-playlists.html)”
 * Read: David Zentgraf, “[What Every Programmer Absolutely, Positively Needs to Know about Encodings and Character Sets to Work with Text](http://kunststube.net/encoding/)”
 
-* In class: Web scraping and HTML parsing using Beautiful Soup
+* In class: Web scraping and HTML parsing using Beautiful Soup ([slides]() | [complete notebook](notebooks/class4-web-scraping.ipynb) | [class notebook](notebooks/class4-web-scraping-in-class.ipynb))
 
 9/12 – APIs
 
@@ -39,7 +39,7 @@
 
 9/17 – Text parsing / regular expressions
 
-* **HW 1 Due: Scrape the lyrics for all of the songs in the candidate playlists from Genius.com**
+* **HW 1 Due: Scraping song lyrics from Genius.com**
 
 * In class: Text parsing and regex with our candidate song lyrics corpus
 
