@@ -29,13 +29,13 @@
 * Read: Astead Herndon et al.,, “[What Do Rally Playlists Say About the Candidates?](https://www.nytimes.com/interactive/2019/08/19/us/politics/presidential-campaign-songs-playlists.html)”
 * Read: David Zentgraf, “[What Every Programmer Absolutely, Positively Needs to Know about Encodings and Character Sets to Work with Text](http://kunststube.net/encoding/)”
 
-* In class: Web scraping and HTML parsing using Beautiful Soup ([slides](../slides/class4slides.pdf) | [complete notebook](https://nbviewer.jupyter.org/github/laurenfklein/emory-qtm340/blob/master/notebooks/class4-web-scraping.ipynb) | [class notebook](https://nbviewer.jupyter.org/github/laurenfklein/emory-qtm340/blob/master/notebooks/class4-web-scraping-in-class-updated.ipynb))
+* In class: Web scraping and HTML parsing using Beautiful Soup ([slides](../slides/class4slides.pdf) | [view complete notebook](https://nbviewer.jupyter.org/github/laurenfklein/emory-qtm340/blob/master/notebooks/class4-web-scraping.ipynb) | [download complete notebook](https://raw.githubusercontent.com/laurenfklein/emory-qtm340/master/notebooks/class4-web-scraping.ipynb) | [view class notebook](https://nbviewer.jupyter.org/github/laurenfklein/emory-qtm340/blob/master/notebooks/class4-web-scraping-in-class-updated.ipynb))
 
 9/12 – More Beautiful Soup and APIs
 
 ~~* Read: Xavier Adam, “[An Illustrated Introduction to APIs](https://medium.com/epfl-extension-school/an-illustrated-introduction-to-apis-10f8000313b9)” and “[API Whispering 101](https://medium.com/epfl-extension-school/api-whispering-101-e04fbb5a08fd)”~~
 
-* In class: More Beautiful Soup and APIs (ex: Twitter and Genius) ([slides]() | [complete notebook]() | [class notebook]())
+* In class: More Beautiful Soup and APIs (ex: Twitter and Genius) ([slides]() | [view complete notebook]() | [download complete notebook]() | [view class notebook]())
 
 9/17 – Text parsing / regular expressions
 
