@@ -39,7 +39,7 @@
 
 9/17 – Text parsing / regular expressions
 
-* **HW 1 Due: Scraping song lyrics from Genius.com** [assignment sheet](hw1.pdf)
+* **HW 1 Due: Scraping song lyrics from Genius.com** ([assignment sheet](hw1.pdf))
 
 * In class: Text parsing and regex with our candidate song lyrics corpus
 
