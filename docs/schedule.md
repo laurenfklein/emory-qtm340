@@ -64,7 +64,7 @@
 
 10/1 – Intro of final project
 
-* **HW 2 Due: Sentiment analysis OR topic model of class song lyrics corpus **
+* **HW 2 Due: Sentiment analysis OR topic model of class song lyrics corpus**
 
 10/3 – Word counts, n-grams
 
@@ -156,4 +156,4 @@
 
 ### FINAL PROJECTS DUE DECEMBER 17TH, 5:30PM
 
-*This syllabus has been inspired by the courses of [Jinho Choi](https://github.com/emory-courses/data-science), [Alison Parrish](http://www.decontextualize.com/teaching/), [David Mimno](https://mimno.infosci.cornell.edu/info3350/), [David Bamman](http://people.ischool.berkeley.edu/~dbamman/info256.html), [Ryan Cordell](http://s17hda.ryancordell.org), and [Ben Schmidt](http://benschmidt.org/HDA19/), as well as suggestions by Heather Froehlich, Ted Underwood, Jacob Eisenstein, Jim Casey, Taylor Arnold, Lauren Tilton, and Eileen Clancy.*
+*This syllabus has been inspired by the courses of [Jinho Choi](https://github.com/emory-courses/data-science), [Alison Parrish](http://www.decontextualize.com/teaching/), [David Mimno](https://mimno.infosci.cornell.edu/info3350/), [David Bamman](http://people.ischool.berkeley.edu/~dbamman/info256.html), [Ryan Cordell](http://s17hda.ryancordell.org), and [Ben Schmidt](http://benschmidt.org/HDA19/), as well as suggestions and other input from Heather Froehlich, Ted Underwood, Jacob Eisenstein, Jim Casey, Taylor Arnold, Lauren Tilton, Lisa Rhody, Eileen Clancy, and the Colored Conventions Project Team.*
