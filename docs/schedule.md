@@ -35,13 +35,13 @@
 
 * Read: Xavier Adam, “[An Illustrated Introduction to APIs](https://medium.com/epfl-extension-school/an-illustrated-introduction-to-apis-10f8000313b9)” and “[API Whispering 101](https://medium.com/epfl-extension-school/api-whispering-101-e04fbb5a08fd)”
 
-* In class: APIs (ex: Genius and Twitter)
+* In class: APIs (ex: Twitter and Genius)
 
 9/17 – Text parsing / regular expressions
 
 * **HW 1 Due: Scrape the lyrics for all of the songs in the candidate playlists from Genius.com**
 
-* In class: Text parsing and regex with your song lyrics
+* In class: Text parsing and regex with our candidate song lyrics corpus
 
 9/19 – Sentiment analysis! (and dictionaries more generally)
 
