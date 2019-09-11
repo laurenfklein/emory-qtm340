@@ -1,4 +1,4 @@
-# Class-by-Class Schedule
+# Current Class-by-Class Schedule
 
 ### Introduction and Overview
 
@@ -31,40 +31,44 @@
 
 * In class: Web scraping and HTML parsing using Beautiful Soup ([slides](../slides/class4slides.pdf) | [complete notebook](../notebooks/class4-web-scraping.ipynb) | [class notebook](../notebooks/class4-web-scraping-in-class.ipynb))
 
-9/12 – APIs
+9/12 – More Web Scraping and API Overview
 
-* Read: Xavier Adam, “[An Illustrated Introduction to APIs](https://medium.com/epfl-extension-school/an-illustrated-introduction-to-apis-10f8000313b9)” and “[API Whispering 101](https://medium.com/epfl-extension-school/api-whispering-101-e04fbb5a08fd)”
+* Before class: Work through the notebook, "class4-web-scraping.ipynb," distributed via Canvas.
 
-* In class: APIs (ex: Twitter and Genius)
+* In class: More web scraping and API Overview
 
-9/17 – Text parsing / regular expressions
+9/17 – More APIs
 
-* **HW 1 Due: Scraping song lyrics from Genius.com** ([assignment sheet](hw1.pdf))
+* Before class: Work through the notebook "class5-api-overview.ipynb," distributed via Canvas. 
 
-* In class: Text parsing and regex with our candidate song lyrics corpus
+* In class: More APIs
 
-9/19 – Sentiment analysis! (and dictionaries more generally)
+9/19 - Text parsing / regular expressions
+
+**HW1 Due**: Scrape the song lyrics of one of the candidate's songs from genius.com using Beautiful Soup
+
+* In class: Text parsing and regex with our candidate song lyrics
+
+### Unit 2: Operationalizing Text as Data
+
+9/24 – Sentiment analysis of our song lyric corpus (a preview of what is to come) 
 
 * Read: Ethan Reed, “[Measured Unrest in the Poetry of the Black Arts Movement](https://scholarslab.lib.virginia.edu/blog/measured-unrest-in-the-poetry-of-the-black-arts-movement/)”
 * Read: Catherine D’Ignazio and Lauren Klein, “[The Numbers Don’t Speak for Themselves](https://bookbook.pubpub.org/pub/6ui5n4vo)”
 
 * In class: Sentiment analysis and discussion of context
 
-### Unit 2: Operationalizing Text as Data
-
-9/24 – Topic modeling (moved from 9/26)
-
-* Read: Cameron Blevins, “[Topic Modeling Martha Ballard’s Diary](http://www.cameronblevins.org/posts/topic-modeling-martha-ballards-diary/)”
-* Read: Lisa Rhody, “[Topic Modeling and Figurative Language](http://journalofdigitalhumanities.org/2-1/topic-modeling-and-figurative-language-by-lisa-m-rhody/)”
-
-9/26 – Intro to Colored Conventions Project Corpus *Skype with Colored Conventions Project Team* (moved from 9/24)
+9/26 – Intro to Colored Conventions Project Corpus *Skype with Colored Conventions Project Team* 
 
 * Read: P. Gabrielle Foreman, Sarah Patterson, and Jim Casey, “[Introduction to the Colored Conventions Movement](http://coloredconventions.org/introduction-to-movement)” and “[CCP Principles](http://coloredconventions.org/ccp-principles)”
 * Watch: “[The Colored Conventions Project in Three Videos](http://coloredconventions.org/project-videos)” (watch the three videos)
 
-10/1 – Intro of final project
+10/1 – Topic modeling
 
-* **HW 2 Due: Sentiment analysis OR topic model of class song lyrics corpus**
+* Read: Cameron Blevins, “[Topic Modeling Martha Ballard’s Diary](http://www.cameronblevins.org/posts/topic-modeling-martha-ballards-diary/)”
+* Read: Lisa Rhody, “[Topic Modeling and Figurative Language](http://journalofdigitalhumanities.org/2-1/topic-modeling-and-figurative-language-by-lisa-m-rhody/)”
+
+* **HW 2 Due: TBD**
 
 10/3 – Word counts, n-grams
 
