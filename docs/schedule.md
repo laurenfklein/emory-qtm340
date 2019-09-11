@@ -35,13 +35,13 @@
 
 * Before class: Work through the notebook, "class4-web-scraping.ipynb," distributed via Canvas.
 
-* In class: More web scraping and API Overview
+* In class: More web scraping and API Overview ([class notebook](https://nbviewer.jupyter.org/github/laurenfklein/emory-qtm340/blob/master/notebooks/class5-accessing-apis-in-class-updated.ipynb))
 
-9/17 – More APIs
+9/17 – More with APIs
 
-* Before class: Work through the notebook "class5-api-overview.ipynb," distributed via Canvas.
+* Before class: Work through the notebook "class5-accessing-apis.ipynb," distributed via Canvas.
 
-* In class: More APIs
+* In class: More with APIs
 
 9/19 - Text parsing / regular expressions
 
