@@ -35,7 +35,7 @@
 
 * Before class: Work through the notebook, "class4-web-scraping.ipynb," distributed via Canvas.
 
-* In class: More web scraping and API Overview ([class notebook](https://nbviewer.jupyter.org/github/laurenfklein/emory-qtm340/blob/master/notebooks/class5-accessing-apis-in-class-updated.ipynb))
+* In class: More web scraping and API Overview ([scraping the NYT class notebook](https://nbviewer.jupyter.org/github/laurenfklein/emory-qtm340/blob/master/notebooks/class5-web-scraping-NYT.ipynb) | [acessing APIS class notebook](https://nbviewer.jupyter.org/github/laurenfklein/emory-qtm340/blob/master/notebooks/class5-accessing-apis-in-class.ipynb)
 
 9/17 – More with APIs
 
