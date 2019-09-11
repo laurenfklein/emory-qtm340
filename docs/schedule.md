@@ -22,14 +22,14 @@
 
 * **HW 0 Due: Install [Anaconda](https://www.anaconda.com/distribution/#download-section) <-- You want the Python 3.7 version**
 
-* In class: Intro to Jupyter and discussion of the platforms and people that make data science with text possible ([slides](../slides/class-3.pdf) | [notebook](../notebooks/class3-jupyter-intro.ipynb))
+* In class: Intro to Jupyter and discussion of the platforms and people that make data science with text possible ([slides](../slides/class-3.pdf) | [notebook](https://nbviewer.jupyter.org/github/laurenfklein/emory-qtm340/blob/master/notebooks/class3-jupyter-intro.ipynb))
 
 9/10 – Web Scraping
 
 * Read: Astead Herndon et al.,, “[What Do Rally Playlists Say About the Candidates?](https://www.nytimes.com/interactive/2019/08/19/us/politics/presidential-campaign-songs-playlists.html)”
 * Read: David Zentgraf, “[What Every Programmer Absolutely, Positively Needs to Know about Encodings and Character Sets to Work with Text](http://kunststube.net/encoding/)”
 
-* In class: Web scraping and HTML parsing using Beautiful Soup ([slides](../slides/class4slides.pdf) | [complete notebook](../notebooks/class4-web-scraping.ipynb) | [class notebook](../notebooks/class4-web-scraping-in-class.ipynb))
+* In class: Web scraping and HTML parsing using Beautiful Soup ([slides](../slides/class4slides.pdf) | [complete notebook](https://nbviewer.jupyter.org/github/laurenfklein/emory-qtm340/blob/master/notebooks/class4-web-scraping.ipynb) | [class notebook](https://nbviewer.jupyter.org/github/laurenfklein/emory-qtm340/blob/master/notebooks/class4-web-scraping-in-class-updated.ipynb))
 
 9/12 – More Web Scraping and API Overview
 
@@ -39,7 +39,7 @@
 
 9/17 – More APIs
 
-* Before class: Work through the notebook "class5-api-overview.ipynb," distributed via Canvas. 
+* Before class: Work through the notebook "class5-api-overview.ipynb," distributed via Canvas.
 
 * In class: More APIs
 
@@ -51,14 +51,14 @@
 
 ### Unit 2: Operationalizing Text as Data
 
-9/24 – Sentiment analysis of our song lyric corpus (a preview of what is to come) 
+9/24 – Sentiment analysis of our song lyric corpus (a preview of what is to come)
 
 * Read: Ethan Reed, “[Measured Unrest in the Poetry of the Black Arts Movement](https://scholarslab.lib.virginia.edu/blog/measured-unrest-in-the-poetry-of-the-black-arts-movement/)”
 * Read: Catherine D’Ignazio and Lauren Klein, “[The Numbers Don’t Speak for Themselves](https://bookbook.pubpub.org/pub/6ui5n4vo)”
 
 * In class: Sentiment analysis and discussion of context
 
-9/26 – Intro to Colored Conventions Project Corpus *Skype with Colored Conventions Project Team* 
+9/26 – Intro to Colored Conventions Project Corpus *Skype with Colored Conventions Project Team*
 
 * Read: P. Gabrielle Foreman, Sarah Patterson, and Jim Casey, “[Introduction to the Colored Conventions Movement](http://coloredconventions.org/introduction-to-movement)” and “[CCP Principles](http://coloredconventions.org/ccp-principles)”
 * Watch: “[The Colored Conventions Project in Three Videos](http://coloredconventions.org/project-videos)” (watch the three videos)
