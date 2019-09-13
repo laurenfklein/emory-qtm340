@@ -8,8 +8,9 @@
 
 9/3 – What can you do with text?
 
-* Read: Li-Young Lee, “[Persimmons](https://www.poetryfoundation.org/poems/43011/persimmons)”
-* Read: Michael Whitmore, “[Text: A Massively Addressable Object](https://dhdebates.gc.cuny.edu/read/untitled-88c11800-9446-469b-a3be-3fdb36bfbd1e/section/402e7e9a-359b-4b11-8386-a1b48e40425a)”
+* Before class:
+	* Read: Li-Young Lee, “[Persimmons](https://www.poetryfoundation.org/poems/43011/persimmons)”
+	* Read: Michael Whitmore, “[Text: A Massively Addressable Object](https://dhdebates.gc.cuny.edu/read/untitled-88c11800-9446-469b-a3be-3fdb36bfbd1e/section/402e7e9a-359b-4b11-8386-a1b48e40425a)”
 
 * In class: Close reading and [Voyant](https://voyant-tools.org/) exercise ([slides](../slides/class-2.pdf))
 
@@ -17,35 +18,37 @@
 
 9/5 – Platforms and People
 
-* Read: Scott Weingart, “[The Route of a Text Message](https://scottbot.net/the-route-of-a-text-message/)”
-* Read: Lilly Irani, “[Justice for ‘Data Janitors’](https://www.publicbooks.org/justice-for-data-janitors/)”
+* **HW 0 Due:** Install [Anaconda](https://www.anaconda.com/distribution/#download-section) <-- You want the Python 3.7 version
 
-* **HW 0 Due: Install [Anaconda](https://www.anaconda.com/distribution/#download-section) <-- You want the Python 3.7 version**
+* Before class:
+	* Read: Scott Weingart, “[The Route of a Text Message](https://scottbot.net/the-route-of-a-text-message/)”
+	* Read: Lilly Irani, “[Justice for ‘Data Janitors’](https://www.publicbooks.org/justice-for-data-janitors/)”
 
-* In class: Intro to Jupyter and discussion of the platforms and people that make data science with text possible ([slides](../slides/class-3.pdf) | [notebook](https://nbviewer.jupyter.org/github/laurenfklein/emory-qtm340/blob/master/notebooks/class3-jupyter-intro.ipynb))
+* In class: Intro to Jupyter and discussion of the platforms and people that make data science with text possible ([slides](../slides/class-3.pdf) | [notebook](../notebooks/class3-jupyter-intro.ipynb))
 
 9/10 – Web Scraping
 
-* Read: Astead Herndon et al.,, “[What Do Rally Playlists Say About the Candidates?](https://www.nytimes.com/interactive/2019/08/19/us/politics/presidential-campaign-songs-playlists.html)”
-* Read: David Zentgraf, “[What Every Programmer Absolutely, Positively Needs to Know about Encodings and Character Sets to Work with Text](http://kunststube.net/encoding/)”
+* Before class:
+	* Read: Astead Herndon et al.,, “[What Do Rally Playlists Say About the Candidates?](https://www.nytimes.com/interactive/2019/08/19/us/politics/presidential-campaign-songs-playlists.html)”
+	* Read: David Zentgraf, “[What Every Programmer Absolutely, Positively Needs to Know about Encodings and Character Sets to Work with Text](http://kunststube.net/encoding/)”
 
-* In class: Web scraping and HTML parsing using Beautiful Soup ([slides](../slides/class4slides.pdf) | [complete notebook](https://nbviewer.jupyter.org/github/laurenfklein/emory-qtm340/blob/master/notebooks/class4-web-scraping.ipynb) | [class notebook](https://nbviewer.jupyter.org/github/laurenfklein/emory-qtm340/blob/master/notebooks/class4-web-scraping-in-class-updated.ipynb))
+* In class: Web scraping and HTML parsing using Beautiful Soup ([slides](../slides/class4slides.pdf) | [complete notebook](h../notebooks/class4-web-scraping-complete.ipynb) | [class notebook](../notebooks/class4-web-scraping-inclass.ipynb))
 
-9/12 – More Web Scraping and API Overview
+9/12 – More Web Scraping
 
 * Before class: Work through the notebook, "class4-web-scraping.ipynb," distributed via Canvas.
 
-* In class: More web scraping and API Overview ([scraping the NYT class notebook](https://nbviewer.jupyter.org/github/laurenfklein/emory-qtm340/blob/master/notebooks/class5-web-scraping-NYT.ipynb) | [acessing APIS class notebook](https://nbviewer.jupyter.org/github/laurenfklein/emory-qtm340/blob/master/notebooks/class5-accessing-apis-in-class.ipynb)
+* In class: More web scraping ([complete notebook](../notebooks/class5-web-scraping-NYT-complete.ipynb) | [class notebook](../notebooks/class5-web-scraping-NYT-inclass.ipynb))
 
-9/17 – More with APIs
+9/17 – APIs
 
 * Before class: Work through the notebook "class5-accessing-apis.ipynb," distributed via Canvas.
 
-* In class: More with APIs
+* In class: More with APIs ([accessing APIS class notebook](../notebooks/class5-accessing-apis-inclass.ipynb)] | [Genius API class notebook](./notebooks/class6-genius-api-inclass.ipynb))
 
 9/19 - Text parsing / regular expressions
 
-**HW1 Due**: Scrape the song lyrics of one of the candidate's songs from genius.com using Beautiful Soup
+* **HW1 Due**: Scrape the song lyrics of one of the candidate's songs from genius.com using Beautiful Soup (assignment on Canvas)
 
 * In class: Text parsing and regex with our candidate song lyrics
 
@@ -53,9 +56,9 @@
 
 9/24 – Sentiment analysis of our song lyric corpus (a preview of what is to come)
 
-* Read: Ethan Reed, “[Measured Unrest in the Poetry of the Black Arts Movement](https://scholarslab.lib.virginia.edu/blog/measured-unrest-in-the-poetry-of-the-black-arts-movement/)”
-* Read: Catherine D’Ignazio and Lauren Klein, “[The Numbers Don’t Speak for Themselves](https://bookbook.pubpub.org/pub/6ui5n4vo)”
-
+* Before class:
+	* Read: Ethan Reed, “[Measured Unrest in the Poetry of the Black Arts Movement](https://scholarslab.lib.virginia.edu/blog/measured-unrest-in-the-poetry-of-the-black-arts-movement/)”
+	* Read: Catherine D’Ignazio and Lauren Klein, “[The Numbers Don’t Speak for Themselves](https://bookbook.pubpub.org/pub/6ui5n4vo)”
 * In class: Sentiment analysis and discussion of context
 
 9/26 – Intro to Colored Conventions Project Corpus *Skype with Colored Conventions Project Team*
