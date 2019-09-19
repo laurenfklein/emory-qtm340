@@ -44,57 +44,76 @@
 
 * Before class: Work through the notebook "class6-accessing-apis-inclass.ipynb," distributed via Canvas.
 
-* In class: More with APIs ([accessing APIS class notebook](../notebooks/class6-accessing-apis-inclass.ipynb)] | [Genius API class notebook](../notebooks/class6-genius-api-inclass.ipynb))
+* In class: More with APIs (accessing APIS: [class notebook](../notebooks/class6-accessing-apis-inclass.ipynb), [complete notebook](../notebooks/class6-accessing-apis-complete.ipynb) | Genius API [class notebook](../notebooks/class6-genius-api-inclass.ipynb), [complete notebook](../notebooks/class6-genius-api-complete.ipynb))
 
 9/19 - Text parsing / regular expressions
 
 * **HW1 Due**: Scrape the song lyrics of one of the candidate's songs from genius.com using Beautiful Soup (assignment on Canvas)
 
-* In class: Text parsing and regex with our candidate song lyrics
+* In class: Text parsing and regex with our candidate song lyrics (regex: [class notebook](../notebooks/class7-regex-intro-inclass.ipynb), [complete notebook]() | cleaning song lyrics: [class notebook](../notebooks/class7-regex-with-song-lyrics-inclass.ipynb), [complete notebook]())
 
 ### Unit 2: Operationalizing Text as Data
 
-9/24 – Sentiment analysis of our song lyric corpus (a preview of what is to come)
+9/24 – Sentiment analysis (a preview of what is to come)
 
 * Before class:
 	* Read: Ethan Reed, “[Measured Unrest in the Poetry of the Black Arts Movement](https://scholarslab.lib.virginia.edu/blog/measured-unrest-in-the-poetry-of-the-black-arts-movement/)”
 	* Read: Catherine D’Ignazio and Lauren Klein, “[The Numbers Don’t Speak for Themselves](https://bookbook.pubpub.org/pub/6ui5n4vo)”
-* In class: Sentiment analysis and discussion of context
+* In class: Sentiment analysis of our song lyric corpus and, if time, discussion of context
 
-9/26 – Intro to Colored Conventions Project Corpus *Skype with Colored Conventions Project Team*
+9/26 – Intro to Colored Conventions Project Corpus 
 
-* Read: P. Gabrielle Foreman, Sarah Patterson, and Jim Casey, “[Introduction to the Colored Conventions Movement](http://coloredconventions.org/introduction-to-movement)” and “[CCP Principles](http://coloredconventions.org/ccp-principles)”
-* Watch: “[The Colored Conventions Project in Three Videos](http://coloredconventions.org/project-videos)” (watch the three videos)
+* Before class:
+	* Read: P. Gabrielle Foreman, Sarah Patterson, and Jim Casey, “[Introduction to the Colored Conventions Movement](http://coloredconventions.org/introduction-to-movement)” and “[CCP Principles](http://coloredconventions.org/ccp-principles)”
+	* Watch: “[The Colored Conventions Project in Three Videos](http://coloredconventions.org/project-videos)” (watch the three videos)
+
+* In class: Skype with Colored Conventions Project Team and Unit 1 Survey
+
 
 10/1 – Topic modeling
 
-* Read: Cameron Blevins, “[Topic Modeling Martha Ballard’s Diary](http://www.cameronblevins.org/posts/topic-modeling-martha-ballards-diary/)”
-* Read: Lisa Rhody, “[Topic Modeling and Figurative Language](http://journalofdigitalhumanities.org/2-1/topic-modeling-and-figurative-language-by-lisa-m-rhody/)”
+* **HW 2 Due:** Sentiment analysis of the Colored Conventions Corpus
 
-* **HW 2 Due: TBD**
+* Before class:
+	* Read: Cameron Blevins, “[Topic Modeling Martha Ballard’s Diary](http://www.cameronblevins.org/posts/topic-modeling-martha-ballards-diary/)”
+	* Read: Lisa Rhody, “[Topic Modeling and Figurative Language](http://journalofdigitalhumanities.org/2-1/topic-modeling-and-figurative-language-by-lisa-m-rhody/)”
+	
+* In class: topic modeling 	
 
 10/3 – Word counts, n-grams
 
-* Read: Patrick Juola, “[How a Computer Program Helped Show J.K. Rowling Wrote A Cuckoo’s Calling](https://www.scientificamerican.com/article/how-a-computer-program-helped-show-jk-rowling-write-a-cuckoos-calling/_)” (and [more technical version](https://languagelog.ldc.upenn.edu/nll/?p=5315) if you're curious)
-* Read: Charlie Smart, “[The Differences in How CNN, MSNBC, & Fox Cover the News](https://pudding.cool/2018/01/chyrons/)”
+* Before class:
+	* Read: Patrick Juola, “[How a Computer Program Helped Show J.K. Rowling Wrote A Cuckoo’s Calling](https://www.scientificamerican.com/article/how-a-computer-program-helped-show-jk-rowling-write-a-cuckoos-calling/_)” (and [more technical version](https://languagelog.ldc.upenn.edu/nll/?p=5315) if you're curious)
+	* Read: Charlie Smart, “[The Differences in How CNN, MSNBC, & Fox Cover the News](https://pudding.cool/2018/01/chyrons/)”
+	
+* In class: word counts and n-grams
 
-10/8 – Natural Language Processing (NER, POS tagging, etc)
+10/8 – Named Entity Recognition, Part-of-Speech tagging, and more NLP 
 
-* Read: Lauren Klein, “[The Image of Absence: Archival Silence, Data Visualization, and James Hemings](https://read-dukeupress-edu.proxy.library.emory.edu/american-literature/article-pdf/85/4/661/393292/AL854_03Klein_Fpp.pdf)”
-* Read: Ishan Misra et al., “[Seeing through the Human Reporting Bias: Visual Classifiers from Noisy Human-Centric Labels](https://arxiv.org/pdf/1512.06974.pdf?fbclid=IwAR2OwfGEBmPR2ngyN0Hu2JYIEa7rwUe2VTGV8x3laDp89KxL1o6LBERXb9M)”
+* Before class:
+	* Read: Lauren Klein, “[The Image of Absence: Archival Silence, Data Visualization, and James Hemings](https://read-dukeupress-edu.proxy.library.emory.edu/american-literature/article-pdf/85/4/661/393292/AL854_03Klein_Fpp.pdf)”
+	* Read: Ishan Misra et al., “[Seeing through the Human Reporting Bias: Visual Classifiers from Noisy Human-Centric Labels](https://arxiv.org/pdf/1512.06974.pdf?fbclid=IwAR2OwfGEBmPR2ngyN0Hu2JYIEa7rwUe2VTGV8x3laDp89KxL1o6LBERXb9M)”
+
+* In class: NER, POS, etc 
 
 10/10 – Word vectors
 
-* Read: Sarah Connell, “[Word Embedding Models are the New Topic Models](https://web.northeastern.edu/nulab/word-embedding-model/)”
-* Read: Ben Schmidt, “[Gendered Language in Teacher Reviews](http://benschmidt.org/profGender)”
+* Before class:
+	* Read: Sarah Connell, “[Word Embedding Models are the New Topic Models](https://web.northeastern.edu/nulab/word-embedding-model/)”
+	* Read: Ben Schmidt, “[Gendered Language in Teacher Reviews](http://benschmidt.org/profGender)”
+* In class: word vectors
 
-[ FALL BREAK ]
+<div align="center"> 	
+	<b>[ FALL BREAK ]</b>
+</div>
 
 ### Unit 3: (More) Modeling Textual Data
 
 10/17 – Final Project Brainstorming Session
 
-* **HW 3 Due: Analysis of Colored Conventions Project Corpus**
+* **HW 3 Due:** CCP analysis or tutorial (more info TK)
+
+* In class: Unit 2 survey and discussion of final project
 
 10/22 – Another Look at Data
 
@@ -153,7 +172,9 @@
 
 11/26 – NO CLASS, Thanksgiving
 
-[ THANKSGIVING BREAK ]
+<div align="center"> 	
+	<b>[ THANKSGIVING BREAK ]</b>
+</div>
 
 12/3 – Project presentations
 
