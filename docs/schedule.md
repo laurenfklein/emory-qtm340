@@ -42,9 +42,9 @@
 
 9/17 – APIs
 
-* Before class: Work through the notebook "class5-accessing-apis.ipynb," distributed via Canvas.
+* Before class: Work through the notebook "class6-accessing-apis-inclass.ipynb," distributed via Canvas.
 
-* In class: More with APIs ([accessing APIS class notebook](../notebooks/class5-accessing-apis-inclass.ipynb)] | [Genius API class notebook](./notebooks/class6-genius-api-inclass.ipynb))
+* In class: More with APIs ([accessing APIS class notebook](../notebooks/class6-accessing-apis-inclass.ipynb)] | [Genius API class notebook](../notebooks/class6-genius-api-inclass.ipynb))
 
 9/19 - Text parsing / regular expressions
 
