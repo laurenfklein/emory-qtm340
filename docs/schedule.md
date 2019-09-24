@@ -59,7 +59,7 @@
 * Before class:
 	* Read: Ethan Reed, “[Measured Unrest in the Poetry of the Black Arts Movement](https://scholarslab.lib.virginia.edu/blog/measured-unrest-in-the-poetry-of-the-black-arts-movement/)”
 	* Read: Catherine D’Ignazio and Lauren Klein, “[The Numbers Don’t Speak for Themselves](https://bookbook.pubpub.org/pub/6ui5n4vo)”
-* In class: Sentiment analysis of our song lyric corpus and, if time, discussion of context
+* In class: Sentiment analysis of our song lyric corpus and, if time, discussion of context (song lyric corpus [complete notebook](../notebooks/class8-lyrics-scraping-complete.ipynb) | sentiment analysis [class notebook](../notebooks/class8-sentiment analysis-inclass.ipynb)
 
 9/26 – Intro to Colored Conventions Project Corpus 
 
