@@ -50,7 +50,7 @@
 
 * **HW1 Due**: Scrape the song lyrics of one of the candidate's songs from genius.com using Beautiful Soup (assignment on Canvas)
 
-* In class: Text parsing and regex with our candidate song lyrics (regex: [class notebook](../notebooks/class7-regex-intro-inclass.ipynb), [complete notebook]() | cleaning song lyrics: [class notebook](../notebooks/class7-regex-with-song-lyrics-inclass.ipynb), [complete notebook]())
+* In class: Text parsing and regex with our candidate song lyrics (regex: [class notebook](../notebooks/class7-regex-intro-inclass.ipynb), [complete notebook](lass7-regex-intro-complete.ipynb) | cleaning song lyrics: [class notebook](../notebooks/class7-regex-with-song-lyrics-inclass.ipynb), [complete notebook](./notebooks/class7-regex-with-song-lyrics-complete.ipynb))
 
 ### Unit 2: Operationalizing Text as Data
 
@@ -59,7 +59,7 @@
 * Before class:
 	* Read: Ethan Reed, “[Measured Unrest in the Poetry of the Black Arts Movement](https://scholarslab.lib.virginia.edu/blog/measured-unrest-in-the-poetry-of-the-black-arts-movement/)”
 	* Read: Catherine D’Ignazio and Lauren Klein, “[The Numbers Don’t Speak for Themselves](https://bookbook.pubpub.org/pub/6ui5n4vo)”
-* In class: Sentiment analysis of our song lyric corpus and, if time, discussion of context (song lyric corpus: [complete notebook](../notebooks/class8-lyrics-scraping-complete.ipynb) | sentiment analysis: [class notebook](../notebooks/class8-sentiment-analysis-inclass.ipynb))
+* In class: Sentiment analysis of our song lyric corpus and, if time, discussion of context (song lyric corpus: [complete notebook](../notebooks/class8-lyrics-scraping-complete.ipynb) | sentiment analysis: [class notebook](../notebooks/class8-sentiment-analysis-inclass.ipynb), [complete notebook](../notebooks/class8-sentiment-analysis-complete.ipynb))
 
 9/26 – Intro to Colored Conventions Project Corpus 
 
