@@ -69,10 +69,7 @@
 
 * In class: Skype with Colored Conventions Project Team and Unit 1 Survey
 
-
 10/1 – Topic modeling
-
-* **HW 2 Due:** Sentiment analysis of the Colored Conventions Corpus
 
 * Before class:
 	* Read: Cameron Blevins, “[Topic Modeling Martha Ballard’s Diary](http://www.cameronblevins.org/posts/topic-modeling-martha-ballards-diary/)”
@@ -81,6 +78,8 @@
 * In class: topic modeling 	
 
 10/3 – Word counts, n-grams
+
+* **HW 2 Due:** Sentiment analysis of the Colored Conventions Corpus
 
 * Before class:
 	* Read: Patrick Juola, “[How a Computer Program Helped Show J.K. Rowling Wrote A Cuckoo’s Calling](https://www.scientificamerican.com/article/how-a-computer-program-helped-show-jk-rowling-write-a-cuckoos-calling/_)” (and [more technical version](https://languagelog.ldc.upenn.edu/nll/?p=5315) if you're curious)
