@@ -85,7 +85,7 @@
 	* Read: Patrick Juola, “[How a Computer Program Helped Show J.K. Rowling Wrote A Cuckoo’s Calling](https://www.scientificamerican.com/article/how-a-computer-program-helped-show-jk-rowling-write-a-cuckoos-calling/_)” (and [more technical version](https://languagelog.ldc.upenn.edu/nll/?p=5315) if you're curious)
 	* Read: Charlie Smart, “[The Differences in How CNN, MSNBC, & Fox Cover the News](https://pudding.cool/2018/01/chyrons/)”
 	
-* In class: word counts, tf-idf (class notebook](../notebooks/class10-counting-words-inclass.ipynb), [complete notebook]())
+* In class: word counts, tf-idf ([class notebook](../notebooks/class10-counting-words-inclass.ipynb), [complete notebook]())
 
 10/8 – Named Entity Recognition, Part-of-Speech tagging, and likely more word counting 
 
