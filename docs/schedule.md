@@ -75,49 +75,49 @@
 	* Read: Cameron Blevins, “[Topic Modeling Martha Ballard’s Diary](http://www.cameronblevins.org/posts/topic-modeling-martha-ballards-diary/)”
 	* Read: Lisa Rhody, “[Topic Modeling and Figurative Language](http://journalofdigitalhumanities.org/2-1/topic-modeling-and-figurative-language-by-lisa-m-rhody/)”
 	
-* In class: topic modeling 	
+* In class: topic modeling ([class notebook](../notebooks/class9/class9-topic-modeling-inclass.ipynb), [complete notebook](../notebooks/class9-topic-modeling-complete.ipynb)) 	
 
-10/3 – Word counts, n-grams
+10/3 – Word counts, tf-idf
 
 * **HW 2 Due:** Sentiment analysis of the Colored Conventions Corpus
 
 * Before class:
-	* Read: Patrick Juola, “[How a Computer Program Helped Show J.K. Rowling Wrote A Cuckoo’s Calling](https://www.scientificamerican.com/article/how-a-computer-program-helped-show-jk-rowling-write-a-cuckoos-calling/_)” (and [more technical version](https://languagelog.ldc.upenn.edu/nll/?p=5315) if you're curious)
 	* Read: Charlie Smart, “[The Differences in How CNN, MSNBC, & Fox Cover the News](https://pudding.cool/2018/01/chyrons/)”
 	
-* In class: word counts and n-grams
+* In class: word counts, tf-idf ([class notebook](../notebooks/class10-counting-words-inclass.ipynb), [complete notebook]())
 
-10/8 – Named Entity Recognition, Part-of-Speech tagging, and more NLP 
+10/8 – More with word counts and tf-idf
+
+* In class: more word counts and tf-idf
+
+10/10 – Named Entity Recognition, Part-of-Speech tagging, and hopefully also some dataframes and matplotlib
 
 * Before class:
 	* Read: Lauren Klein, “[The Image of Absence: Archival Silence, Data Visualization, and James Hemings](https://read-dukeupress-edu.proxy.library.emory.edu/american-literature/article-pdf/85/4/661/393292/AL854_03Klein_Fpp.pdf)”
 	* Read: Ishan Misra et al., “[Seeing through the Human Reporting Bias: Visual Classifiers from Noisy Human-Centric Labels](https://arxiv.org/pdf/1512.06974.pdf?fbclid=IwAR2OwfGEBmPR2ngyN0Hu2JYIEa7rwUe2VTGV8x3laDp89KxL1o6LBERXb9M)”
 
-* In class: NER, POS, etc 
 
-10/10 – Word vectors
+<div align="center"> 	
+	<b>[ FALL BREAK ]</b>
+</div>
+
+10/17 – Word vectors
 
 * Before class:
 	* Read: Sarah Connell, “[Word Embedding Models are the New Topic Models](https://web.northeastern.edu/nulab/word-embedding-model/)”
 	* Read: Ben Schmidt, “[Gendered Language in Teacher Reviews](http://benschmidt.org/profGender)”
 * In class: word vectors
 
-<div align="center"> 	
-	<b>[ FALL BREAK ]</b>
-</div>
+* **HW 3 Due:** CCP analysis 
 
 ### Unit 3: (More) Modeling Textual Data
 
-10/17 – Final Project Brainstorming Session
-
-* **HW 3 Due:** CCP analysis or tutorial (more info TK)
-
-* In class: Unit 2 survey and discussion of final project
-
-10/22 – Another Look at Data
+10/22 – Intro of final project / Another Look at Data
 
 * Read: Heather Krasue, “[Data Biographies: Getting to Know Your Data](https://gijn.org/2017/03/27/data-biographies-getting-to-know-your-data/)”
 * Read: Timnit Gebru et al., “[Datasheets for Datasets](https://arxiv.org/pdf/1803.09010.pdf)”
+
+In class: Discussion of final project
 
 10/24 – Language Models
 
@@ -162,7 +162,7 @@
 * Adam Kilgarriff, “[Language is Never, Ever, Ever, Random](https://kilgarriff.co.uk/Publications/2005-K-lineer.pdf)”
 * David Lazer et al., “[The Parable of Google Flu: Traps in Big Data Analysis](https://gking.harvard.edu/files/gking/files/0314policyforumff.pdf)”
 
-* **FPP 3 Due: Annotated bibliography**
+* **FPP 3 Due: Exploratory Analysis**
 
 11/21 – Validation by whom, for whom?
 
