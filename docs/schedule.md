@@ -84,40 +84,41 @@
 * Before class:
 	* Read: Charlie Smart, “[The Differences in How CNN, MSNBC, & Fox Cover the News](https://pudding.cool/2018/01/chyrons/)”
 	
-* In class: word counts, tf-idf ([class notebook](../notebooks/class10-counting-words-inclass.ipynb), [complete notebook]())
+* In class: word counts, tf-idf ([class notebook](../notebooks/class10-counting-words-inclass.ipynb), [complete notebook](../notebooks/class10-counting-words-complete.ipynb))
 
 10/8 – More with word counts and tf-idf
 
 * In class: more word counts and tf-idf
 
-10/10 – Named Entity Recognition, Part-of-Speech tagging, and hopefully also some dataframes and matplotlib
+10/10 – Part-of-speech tagging and Named Entity Recognition 
 
 * Before class:
 	* Read: Lauren Klein, “[The Image of Absence: Archival Silence, Data Visualization, and James Hemings](https://read-dukeupress-edu.proxy.library.emory.edu/american-literature/article-pdf/85/4/661/393292/AL854_03Klein_Fpp.pdf)”
 	* Read: Ishan Misra et al., “[Seeing through the Human Reporting Bias: Visual Classifiers from Noisy Human-Centric Labels](https://arxiv.org/pdf/1512.06974.pdf?fbclid=IwAR2OwfGEBmPR2ngyN0Hu2JYIEa7rwUe2VTGV8x3laDp89KxL1o6LBERXb9M)”
 
+* In class: POS tagging, NER ([class notebook](../notebooks/class11-nlp-spacy-inclass.ipynb), [complete notebook](../notebooks/class11-nlp-spacy-complete.ipynb))
 
 <div align="center"> 	
 	<b>[ FALL BREAK ]</b>
 </div>
 
-10/17 – Word vectors
+10/17 – Word vectors (and hopefully some matplotlib and pandas)
 
 * Before class:
 	* Read: Sarah Connell, “[Word Embedding Models are the New Topic Models](https://web.northeastern.edu/nulab/word-embedding-model/)”
 	* Read: Ben Schmidt, “[Gendered Language in Teacher Reviews](http://benschmidt.org/profGender)”
-* In class: word vectors
+* In class: word vectors ([class notebook](../notebooks/class12-word-vectors-inclass.ipynb), [complete notebook](../notebooks/class12-word-vectors-complete.ipynb))
 
 * **HW 3 Due:** CCP analysis 
 
 ### Unit 3: (More) Modeling Textual Data
 
-10/22 – Intro of final project / Another Look at Data
+10/22 – More pandas / intro of final project 
 
 * Read: Heather Krasue, “[Data Biographies: Getting to Know Your Data](https://gijn.org/2017/03/27/data-biographies-getting-to-know-your-data/)”
 * Read: Timnit Gebru et al., “[Datasheets for Datasets](https://arxiv.org/pdf/1803.09010.pdf)”
 
-In class: Discussion of final project
+In class: pandas and discussion of final project
 
 10/24 – Language Models
 
