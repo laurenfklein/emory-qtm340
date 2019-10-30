@@ -102,7 +102,7 @@
 	<b>[ FALL BREAK ]</b>
 </div>
 
-10/17 – Word vectors (and hopefully some matplotlib and pandas)
+10/17 – Word vectors 
 
 * Before class:
 	* Read: Sarah Connell, “[Word Embedding Models are the New Topic Models](https://web.northeastern.edu/nulab/word-embedding-model/)”
@@ -113,37 +113,40 @@
 
 ### Unit 3: (More) Modeling Textual Data
 
-10/22 – More pandas / intro of final project 
+10/22 – Pandas (finally!) / intro of final project 
 
 * Read: Heather Krasue, “[Data Biographies: Getting to Know Your Data](https://gijn.org/2017/03/27/data-biographies-getting-to-know-your-data/)”
 * Read: Timnit Gebru et al., “[Datasheets for Datasets](https://arxiv.org/pdf/1803.09010.pdf)”
 
-In class: pandas and discussion of final project
+* In class: pandas ([class notebook](../notebooks/class13-pandas-inclass.ipynb), [complete notebook](../notebooks/class13-pandas-complete.ipynb))
 
-10/24 – Language Models
+10/24 – More pandas / more final project
 
-* Read: David Smith and Ryan Cordell, “[Mass Digitization](https://manifold.umn.edu/read/untitled-883630b9-c054-44e1-91db-d053a7106ecb/section/ea1f849a-bac1-4e9d-85f4-149d0083a6a4)” and “[What is Text, Probably?](https://manifold.umn.edu/read/8ddd9c7c-c2db-44be-91a6-732d1d08ec47/section/4cb9d511-6870-4108-ba4e-2726d106dd39#ch03)”
-* Read: Richard Jean So, “[All Models are Wrong](https://www-mlajournals-org.proxy.library.emory.edu/doi/pdf/10.1632/pmla.2017.132.3.668)”
+* In class: more pandas ([class notebook](../notebooks/class14-pandas-in-action-inclass.ipynb), [complete notebook](../notebooks/class14-pandas-in-action-complete.ipynb))
 
-10/29 – Similarity
+10/29 – Classification
 
 * Read: Patrick Juola, “[How a Computer Program Helped Show J.K. Rowling Wrote A Cuckoo’s Calling](https://www.scientificamerican.com/article/how-a-computer-program-helped-show-jk-rowling-write-a-cuckoos-calling/)” (and [more technical version](https://languagelog.ldc.upenn.edu/nll/?p=5315) if you're curious)
-
-* **FPP 1 Due: Datasheet OR Data Biography**
-
-10/31 – Classification
-
 * Read: Terra Blevins et al., “[Automatically Processing Tweets from Gang-Involved Youth: Towards Detecting Loss and Aggression](https://www.aclweb.org/anthology/C16-1207)”
 * Read: Hoyt Long and Richard Jean So, “[Literary Pattern Recognition: Modernism between Close Reading and Machine Learning](https://www-journals-uchicago-edu.proxy.library.emory.edu/doi/pdfplus/10.1086/684353)”
 
-11/5 – Clustering
+* In class: classification ([class notebook](../notebooks/class15-classification-inclass.ipynb), [complete notebook](../notebooks/class15-classification-complete.ipynb))
+
+* **FPP 1 Due: Datasheet OR Project Proposal**
+
+10/31 – Clustering
 
 * Read: Matt Daniels, “[The Language of Hip Hop](https://pudding.cool/2017/09/hip-hop-words/)”
 * Read: Alexis Madrigal, “[How Netflix Reverse Engineered Hollywood](https://www.theatlantic.com/technology/archive/2014/01/how-netflix-reverse-engineered-hollywood/282679/)”
 
+11/5 – Advanced Language Models
+
+* Read: David Smith and Ryan Cordell, “[Mass Digitization](https://manifold.umn.edu/read/untitled-883630b9-c054-44e1-91db-d053a7106ecb/section/ea1f849a-bac1-4e9d-85f4-149d0083a6a4)” and “[What is Text, Probably?](https://manifold.umn.edu/read/8ddd9c7c-c2db-44be-91a6-732d1d08ec47/section/4cb9d511-6870-4108-ba4e-2726d106dd39#ch03)”
+* Read: Richard Jean So, “[All Models are Wrong](https://www-mlajournals-org.proxy.library.emory.edu/doi/pdf/10.1632/pmla.2017.132.3.668)”
+
 11/7 – NO CLASS, Professor at conference
 
-* **FPP 2 Due: Project Proposal**
+* **FPP 2 Due: Datasheet OR Project Proposal**
 
 ### Unit 4: Arguing with Textual Data
 
