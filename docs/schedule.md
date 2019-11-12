@@ -128,7 +128,6 @@
 
 * Read: Patrick Juola, “[How a Computer Program Helped Show J.K. Rowling Wrote A Cuckoo’s Calling](https://www.scientificamerican.com/article/how-a-computer-program-helped-show-jk-rowling-write-a-cuckoos-calling/)” (and [more technical version](https://languagelog.ldc.upenn.edu/nll/?p=5315) if you're curious)
 * Read: Terra Blevins et al., “[Automatically Processing Tweets from Gang-Involved Youth: Towards Detecting Loss and Aggression](https://www.aclweb.org/anthology/C16-1207)”
-* Read: Hoyt Long and Richard Jean So, “[Literary Pattern Recognition: Modernism between Close Reading and Machine Learning](https://www-journals-uchicago-edu.proxy.library.emory.edu/doi/pdfplus/10.1086/684353)”
 
 * In class: classification ([class notebook](../notebooks/class15-classification-inclass.ipynb), [complete notebook](../notebooks/class15-classification-complete.ipynb))
 
@@ -141,12 +140,9 @@
 
 * In class: classification ([class notebook and required files](../notebooks/class16.zip), [complete notebook](../notebooks/class16/class16-clustering-complete.ipynb))
 
-11/5 – Advanced Language Models
+11/5 – Bits and bobs
 
-* Read: David Smith and Ryan Cordell, “[Mass Digitization](https://manifold.umn.edu/read/untitled-883630b9-c054-44e1-91db-d053a7106ecb/section/ea1f849a-bac1-4e9d-85f4-149d0083a6a4)” and “[What is Text, Probably?](https://manifold.umn.edu/read/8ddd9c7c-c2db-44be-91a6-732d1d08ec47/section/4cb9d511-6870-4108-ba4e-2726d106dd39#ch03)”
-* Read: Richard Jean So, “[All Models are Wrong](https://www-mlajournals-org.proxy.library.emory.edu/doi/pdf/10.1632/pmla.2017.132.3.668)”
-
-* In class: language models
+* In class: more classification ([class notebook](../notebooks/class17-more-classifying-inclass.ipynb) and more clustering ([class notebook](../notebooks/class17-more-clustering-inclass.ipynb))
 
 11/7 – NO CLASS, Professor at conference
 
@@ -154,28 +150,33 @@
 
 ### Unit 4: Arguing with Textual Data
 
-11/12 – Making arguments
+11/12 – Making arguments, day 1
 
 * Read: Dong Nguyen et al., “[How we do things with words: Analyzing text as social and cultural data](https://arxiv.org/pdf/1907.01468.pdf)”
-* Read: Ted Underwood, David Bamman, and Sabrina Lee, “[The Transformation of Gender in English Language Fiction](http://culturalanalytics.org/2018/02/the-transformation-of-gender-in-english-language-fiction/)”
 
-11/14 – Testing (statistical) hypotheses
+* In class: discussion of Nguyen paper and final project
 
-* Read: Nan Z. Da, “[The Computational Case Against Computational Literary Studies](https://www-journals-uchicago-edu.proxy.library.emory.edu/doi/pdfplus/10.1086/702594)”
-* Read: Ted Dunning, “[Surprise and Coincidence](http://tdunning.blogspot.com/2008/03/surprise-and-coincidence.html)” ([original paper](https://aclweb.org/anthology/J93-1003) if you're curious)
-* Watch: Jonathan Stray, “[Solve Every Statistics Problem with One Weird Trick](https://www.youtube.com/watch?v=BhY-un6JURA)”
+11/14 – Making arguments, day 2
 
-11/19 – Challenging Tests and Testing
+* Read: Hoyt Long and Richard Jean So, “[Literary Pattern Recognition: Modernism between Close Reading and Machine Learning](https://www-journals-uchicago-edu.proxy.library.emory.edu/doi/pdfplus/10.1086/684353)”
+* Read: Eshwar Chandrasekharan et al., "[You Can’t Stay Here: The Efficacy of Reddit’s 2015 Ban Examined Through Hate Speech](http://comp.social.gatech.edu/papers/cscw18-chand-hate.pdf)"
 
-* Adam Kilgarriff, “[Language is Never, Ever, Ever, Random](https://kilgarriff.co.uk/Publications/2005-K-lineer.pdf)”
-* David Lazer et al., “[The Parable of Google Flu: Traps in Big Data Analysis](https://gking.harvard.edu/files/gking/files/0314policyforumff.pdf)”
+* In class: discussion of assigned papers (and a few other examples)
+
+11/19 – Validation day 1
+
+* Read: Matthew Salganik, “Moving Beyond Simple Experiments,” from Bit by Bit: Social Research in the Digital Age (on Canvas)
+
+* In class: overview of methods of validation 
+
+11/21 – Validation day 2
+
+* Read: Richard Jean So, “[All Models are Wrong](https://www-mlajournals-org.proxy.library.emory.edu/doi/pdf/10.1632/pmla.2017.132.3.668)”
+* Read: Safiya Noble, “Introduction” and “Searching for Black Girls” from Algorithms of Oppression: How Search Engines Reinforce Racism (on Canvas)
+
+* In class: discussion of idea of validation 
 
 * **FPP 3 Due: Exploratory Analysis**
-
-11/21 – Validation by whom, for whom?
-
-* Read: Matthew Salganik, “Validation,” from Bit by Bit: Social Research in the Digital Age
-* Read: Safiya Noble, “Introduction” and “Searching for Black Girls” from Algorithms of Oppression: How Search Engines Reinforce Racism
 
 11/26 – NO CLASS, Thanksgiving
 
