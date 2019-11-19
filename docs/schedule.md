@@ -161,13 +161,13 @@
 * Read: Hoyt Long and Richard Jean So, “[Literary Pattern Recognition: Modernism between Close Reading and Machine Learning](https://www-journals-uchicago-edu.proxy.library.emory.edu/doi/pdfplus/10.1086/684353)”
 * Read: Eshwar Chandrasekharan et al., "[You Can’t Stay Here: The Efficacy of Reddit’s 2015 Ban Examined Through Hate Speech](http://comp.social.gatech.edu/papers/cscw18-chand-hate.pdf)"
 
-* In class: discussion of assigned papers (and a few other examples)
+* In class: discussion of assigned papers (and a few other examples) ([class slides](../slides/class18-slides.pdf))
 
 11/19 – Validation day 1
 
 * Read: Matthew Salganik, “Moving Beyond Simple Experiments,” from Bit by Bit: Social Research in the Digital Age (on Canvas)
 
-* In class: overview of methods of validation 
+* In class: overview of methods of validation ([class slides](../slides/class19-slides.pdf))
 
 11/21 – Validation day 2
 
