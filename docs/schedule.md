@@ -174,7 +174,7 @@
 * Read: Richard Jean So, “[All Models are Wrong](https://www-mlajournals-org.proxy.library.emory.edu/doi/pdf/10.1632/pmla.2017.132.3.668)”
 * Read: Safiya Noble, “Introduction” and “Searching for Black Girls” from Algorithms of Oppression: How Search Engines Reinforce Racism (on Canvas)
 
-* In class: discussion of idea of validation 
+* In class: discussion of idea of validation ([class slides](../slides/class20-slides.pdf))
 
 * **FPP 3 Due: Exploratory Analysis**
 
